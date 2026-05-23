@@ -10,6 +10,6 @@ dependencies = [
     "minio>=7.2.20",
     "pydantic>=2.13.4",
     "python-dotenv>=1.2.2",
-    "pywinauto>=0.6.9",
+    "pywinauto>=0.6.9; platform_system == 'Windows'",
     "uvicorn[standard]>=0.47.0",
 ]

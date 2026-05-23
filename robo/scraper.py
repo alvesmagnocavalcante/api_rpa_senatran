@@ -9,7 +9,10 @@ import atexit
 from datetime import datetime
 from dotenv import load_dotenv
 from DrissionPage import ChromiumPage, ChromiumOptions
-from pywinauto.keyboard import send_keys
+if os.name == "nt":
+    from pywinauto.keyboard import send_keys as _send_keys
+else:
+    _send_keys = None
 
 load_dotenv()
 
@@ -147,7 +150,8 @@ def fazer_login(page: ChromiumPage) -> None:
     print("Aguardando certificado...")
 
     time.sleep(1.5)
-    send_keys("{ENTER}")
+    if _send_keys is not None:
+        _send_keys("{ENTER}")
     time.sleep(0.5)
 
     clicar_modal(page, "xpath://*[@id='cookiebar']/div[1]/div/div/div/div[2]/button[2]", timeout=5)
