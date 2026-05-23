@@ -1,5 +1,5 @@
 DrissionPage
-pywinauto
+pywinauto; platform_system == "Windows"
 python-dotenv
 fastapi [standard]
 uvicorn[standard]
