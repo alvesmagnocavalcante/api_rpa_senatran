@@ -1,0 +1,1410 @@
+{
+  "total": 281,
+  "veiculos": [
+    {
+      "modelo": "HONDA/CG 125 CARGO",
+      "placa": "HUJ0604",
+      "renavam": "00618962964"
+    },
+    {
+      "modelo": "TOYOTA/BAND. BJ55LP B",
+      "placa": "HUZ0768",
+      "renavam": "00623469154"
+    },
+    {
+      "modelo": "HONDA/CG 125 TITAN",
+      "placa": "HVZ9851",
+      "renavam": "00693934670"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO",
+      "placa": "HXR0750",
+      "renavam": "00769209025"
+    },
+    {
+      "modelo": "HONDA/CG 150 TITAN KS",
+      "placa": "HUY5557",
+      "renavam": "00835467317"
+    },
+    {
+      "modelo": "VW/26.220",
+      "placa": "HXH4H24",
+      "renavam": "00855192992"
+    },
+    {
+      "modelo": "VW/COMIL BELLO M",
+      "placa": "HXP7056",
+      "renavam": "00892666455"
+    },
+    {
+      "modelo": "M.BENZ/L 1620",
+      "placa": "JFQ2318",
+      "renavam": "00865956669"
+    },
+    {
+      "modelo": "VW/13.180",
+      "placa": "HYA7511",
+      "renavam": "00875166776"
+    },
+    {
+      "modelo": "SR/RANDON SR CA",
+      "placa": "HXZ9C38",
+      "renavam": "00900966122"
+    },
+    {
+      "modelo": "SR/TRIELHT POWER 3E",
+      "placa": "HYG0G03",
+      "renavam": "00921334133"
+    },
+    {
+      "modelo": "I/TOYOTA HILUX CS4X4CHAS",
+      "placa": "HYG3446",
+      "renavam": "00980468329"
+    },
+    {
+      "modelo": "VW/INDUSCAR APACHE U",
+      "placa": "HYT6777",
+      "renavam": "00980928656"
+    },
+    {
+      "modelo": "HONDA/NXR150 BROS ES",
+      "placa": "HWY6147",
+      "renavam": "00982907028"
+    },
+    {
+      "modelo": "SR/NOMA SR3E27 BCG",
+      "placa": "NRB9374",
+      "renavam": "00139873066"
+    },
+    {
+      "modelo": "SR/TRIELHT POWER 3E",
+      "placa": "NQU9394",
+      "renavam": "00144174022"
+    },
+    {
+      "modelo": "HONDA/NXR150 BROS KS",
+      "placa": "HUB9595",
+      "renavam": "00145009327"
+    },
+    {
+      "modelo": "I/TOYOTA HILUX CS4X4CHAS",
+      "placa": "HWP8994",
+      "renavam": "00146589645"
+    },
+    {
+      "modelo": "M.BENZ/INDUSCAR APACHE U",
+      "placa": "NUZ1702",
+      "renavam": "00204182646"
+    },
+    {
+      "modelo": "HONDA/CG 125 FAN ES",
+      "placa": "NRB3023",
+      "renavam": "00212889265"
+    },
+    {
+      "modelo": "VOLVO/VM 260 6X2R",
+      "placa": "OCR0689",
+      "renavam": "00396241891"
+    },
+    {
+      "modelo": "VOLVO/VM 260 6X2R",
+      "placa": "OIQ4D25",
+      "renavam": "00475018060"
+    },
+    {
+      "modelo": "VOLVO/VM 260 6X2R",
+      "placa": "OII9272",
+      "renavam": "00453315615"
+    },
+    {
+      "modelo": "VOLVO/VM 260 6X2R",
+      "placa": "OCQ5479",
+      "renavam": "00403114586"
+    },
+    {
+      "modelo": "VOLVO/VM 260 6X2R",
+      "placa": "OIH6271",
+      "renavam": "00420002170"
+    },
+    {
+      "modelo": "HONDA/CG 125 FAN KS",
+      "placa": "OII5282",
+      "renavam": "00453924395"
+    },
+    {
+      "modelo": "HONDA/CG 125 FAN KS",
+      "placa": "OII5382",
+      "renavam": "00453924123"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "OIC0379",
+      "renavam": "00493517197"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "OIC0479",
+      "renavam": "00493516573"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSA2E81",
+      "renavam": "00509882838"
+    },
+    {
+      "modelo": "VOLVO/FH 460 6X4T",
+      "placa": "OSS4H29",
+      "renavam": "00502162619"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSA1H61",
+      "renavam": "00509886426"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "OSI7569",
+      "renavam": "00497654393"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "OSI7439",
+      "renavam": "00497654890"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSD0I51",
+      "renavam": "00510940862"
+    },
+    {
+      "modelo": "VOLVO/VM 270 4X2R",
+      "placa": "OSA3461",
+      "renavam": "00509879900"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "OSV0931",
+      "renavam": "00508645875"
+    },
+    {
+      "modelo": "HONDA/NXR125 BROS ES",
+      "placa": "OSO4J23",
+      "renavam": "00549539352"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO ES",
+      "placa": "OSQ7305",
+      "renavam": "00572892101"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "ORT3726",
+      "renavam": "00593831322"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSM5J25",
+      "renavam": "00589189883"
+    },
+    {
+      "modelo": "VW/8.160 DRC 4X2",
+      "placa": "OEG6G38",
+      "renavam": "00586498230"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "ORT4446",
+      "renavam": "00593829832"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "OSV0287",
+      "renavam": "00600430197"
+    },
+    {
+      "modelo": "HONDA/CG 125 CARGO KS",
+      "placa": "OSU9997",
+      "renavam": "00600434290"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OVX0J65",
+      "renavam": "00598623124"
+    },
+    {
+      "modelo": "M.BENZ/ATEGO 2426",
+      "placa": "ORX3360",
+      "renavam": "01185128783"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSQ8B08",
+      "renavam": "00999112074"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSO8037",
+      "renavam": "01000769973"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSQ1F38",
+      "renavam": "01000988624"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSM3E28",
+      "renavam": "00999265350"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSJ3988",
+      "renavam": "01002218788"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSO7B18",
+      "renavam": "01001547451"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OST8D18",
+      "renavam": "01001984126"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSO7087",
+      "renavam": "01000771552"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSV8H57",
+      "renavam": "00993839819"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSH0G67",
+      "renavam": "00661677095"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSK0H17",
+      "renavam": "01000089913"
+    },
+    {
+      "modelo": "SR/TRIELHT POWER 3E",
+      "placa": "OSR9268",
+      "renavam": "00999935186"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSQ2H50",
+      "renavam": "01016558640"
+    },
+    {
+      "modelo": "VOLVO/VM 270 4X2R",
+      "placa": "OSI3B30",
+      "renavam": "01017181095"
+    },
+    {
+      "modelo": "VOLVO/VM 270 4X2R",
+      "placa": "PMN6J59",
+      "renavam": "01025988571"
+    },
+    {
+      "modelo": "VW/SAVEIRO CS TL MB",
+      "placa": "OSJ4600",
+      "renavam": "01014487703"
+    },
+    {
+      "modelo": "VW/SAVEIRO CS TL MB",
+      "placa": "OSJ5D00",
+      "renavam": "01014485905"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "OSQ2510",
+      "renavam": "01016559981"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "PMC8I50",
+      "renavam": "01019661060"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMS9D50",
+      "renavam": "01019503502"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSR4D60",
+      "renavam": "01019318292"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "OSR5I90",
+      "renavam": "01019316397"
+    },
+    {
+      "modelo": "VOLVO/VM 330 8X2R",
+      "placa": "PMX5F79",
+      "renavam": "01027256209"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMY3E28",
+      "renavam": "01034549020"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMQ5D58",
+      "renavam": "01031245534"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMZ9E67",
+      "renavam": "01034645371"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMQ7A58",
+      "renavam": "01031241067"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMQ4J38",
+      "renavam": "01031246255"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMQ9C18",
+      "renavam": "01031237264"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMQ8A38",
+      "renavam": "01031239380"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMZ8E27",
+      "renavam": "01034646629"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMO6E57",
+      "renavam": "01036886147"
+    },
+    {
+      "modelo": "VOLVO/VM 220 4X2R",
+      "placa": "PMO6J07",
+      "renavam": "01036885663"
+    },
+    {
+      "modelo": "I/TOYOTA HILUX CD4X4 SRV",
+      "placa": "PMJ3687",
+      "renavam": "01037060544"
+    },
+    {
+      "modelo": "HONDA/XRE 300",
+      "placa": "PNS2686",
+      "renavam": "01091776161"
+    },
+    {
+      "modelo": "FIAT/STRADA WORKING",
+      "placa": "PNB5699",
+      "renavam": "01066234784"
+    },
+    {
+      "modelo": "FIAT/STRADA WORKING CD",
+      "placa": "PNJ4D39",
+      "renavam": "01066552131"
+    },
+    {
+      "modelo": "VOLVO/VM 330 4X2T",
+      "placa": "POS4F16",
+      "renavam": "01161362026"
+    },
+    {
+      "modelo": "VOLVO/VM 330 4X2T",
+      "placa": "POS4726",
+      "renavam": "01161361062"
+    },
+    {
+      "modelo": "VOLVO/VM 330 4X2T",
+      "placa": "POS5166",
+      "renavam": "01161360740"
+    },
+    {
+      "modelo": "VOLVO/VM 330 4X2T",
+      "placa": "POQ9737",
+      "renavam": "01162807749"
+    },
+    {
+      "modelo": "VOLVO/VM 330 4X2T",
+      "placa": "POQ9887",
+      "renavam": "01162807420"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POU9877",
+      "renavam": "01176503593"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "PNB4F93",
+      "renavam": "01191527139"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POY3488",
+      "renavam": "01164538486"
+    },
+    {
+      "modelo": "VOLVO/VM 330 4X2R",
+      "placa": "POU2H37",
+      "renavam": "01164464571"
+    },
+    {
+      "modelo": "VOLVO/VM 330 4X2R",
+      "placa": "POJ6877",
+      "renavam": "01163852594"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POZ5C18",
+      "renavam": "01167938418"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POH4I28",
+      "renavam": "01166282519"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "POZ6C17",
+      "renavam": "01178675243"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "POV7J09",
+      "renavam": "01169661693"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "POV7J99",
+      "renavam": "01169661251"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "POX4H09",
+      "renavam": "01172073233"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "POZ6A57",
+      "renavam": "01178675499"
+    },
+    {
+      "modelo": "VW/24.280 CRM 6X2",
+      "placa": "PNR6602",
+      "renavam": "01185900630"
+    },
+    {
+      "modelo": "VW/24.280 CRM 6X2",
+      "placa": "PNX6D33",
+      "renavam": "01194313989"
+    },
+    {
+      "modelo": "VW/24.280 CRM 6X2",
+      "placa": "PNQ5253",
+      "renavam": "01192923089"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "POX4237",
+      "renavam": "01177032233"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "PNQ1B83",
+      "renavam": "01192946976"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "PNI4A43",
+      "renavam": "01192118763"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POU3F49",
+      "renavam": "01173957666"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POL4J24",
+      "renavam": "01203654089"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "PNQ2J02",
+      "renavam": "01184948370"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "PNF0C52",
+      "renavam": "01181934440"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "PNM5E92",
+      "renavam": "01185236870"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POJ4A97",
+      "renavam": "01176694909"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POJ3C47",
+      "renavam": "01176695328"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POO8907",
+      "renavam": "01178429145"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "POO9077",
+      "renavam": "01178428548"
+    },
+    {
+      "modelo": "VW/9.170 DRC 4X2",
+      "placa": "RIF8B00",
+      "renavam": "01268907917"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POA5A79",
+      "renavam": "01172224339"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POB0D69",
+      "renavam": "01172223570"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ9F39",
+      "renavam": "01172225742"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POB0G69",
+      "renavam": "01172222522"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POO9H39",
+      "renavam": "01172220848"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POO5F39",
+      "renavam": "01172221380"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POW9F87",
+      "renavam": "01178307430"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POW9H47",
+      "renavam": "01178307171"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POX0D77",
+      "renavam": "01178306299"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ9E79",
+      "renavam": "01173031631"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ9A39",
+      "renavam": "01173034410"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POZ8D69",
+      "renavam": "01173036790"
+    },
+    {
+      "modelo": "MAN/TGX 29.480 6X4 T",
+      "placa": "POP0G89",
+      "renavam": "01172219149"
+    },
+    {
+      "modelo": "MAN/TGX 29.480 6X4 T",
+      "placa": "POP0D19",
+      "renavam": "01172220007"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POZ6I39",
+      "renavam": "01173044652"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ6J19",
+      "renavam": "01173043877"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ7B89",
+      "renavam": "01173043362"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ9D89",
+      "renavam": "01173031984"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ8J39",
+      "renavam": "01173034681"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POZ8B39",
+      "renavam": "01173037044"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ9B09",
+      "renavam": "01173034134"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ8H29",
+      "renavam": "01173036439"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POZ7I59",
+      "renavam": "01173039179"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POZ7A69",
+      "renavam": "01173043630"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POZ7H79",
+      "renavam": "01173039411"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POW8I47",
+      "renavam": "01178308267"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POX0B97",
+      "renavam": "01178306973"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POW9E77",
+      "renavam": "01178307635"
+    },
+    {
+      "modelo": "VW/9.170 DRC 4X2",
+      "placa": "POT4448",
+      "renavam": "01174622820"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POU2E58",
+      "renavam": "01174986996"
+    },
+    {
+      "modelo": "R/ROSSETTI SRBA ST02",
+      "placa": "POW9C67",
+      "renavam": "01178308119"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POZ7G99",
+      "renavam": "01173039667"
+    },
+    {
+      "modelo": "R/ROSSETTI DOLLY 02",
+      "placa": "POW8F97",
+      "renavam": "01178309468"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "OIF9C29",
+      "renavam": "01243448404"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "POB9D95",
+      "renavam": "01195478647"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "POO3H52",
+      "renavam": "01233363376"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "PNX6F33",
+      "renavam": "01194313628"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "PNV1772",
+      "renavam": "01184112212"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "PNZ7A12",
+      "renavam": "01187788667"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "PNV1712",
+      "renavam": "01184112719"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "PNI3E93",
+      "renavam": "01192276857"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "POW2247",
+      "renavam": "01178936268"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "POV8I37",
+      "renavam": "01178940206"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "PNY4D62",
+      "renavam": "01186840495"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "POW2857",
+      "renavam": "01178935873"
+    },
+    {
+      "modelo": "VW/9.170 DRC 4X2",
+      "placa": "POZ9F17",
+      "renavam": "01179881297"
+    },
+    {
+      "modelo": "VW/17.190 CRM 4X2",
+      "placa": "OID9D39",
+      "renavam": "01240212159"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "PNQ1A23",
+      "renavam": "01193491638"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "PNW2H02",
+      "renavam": "01184553065"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "PNV9D72",
+      "renavam": "01189581857"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "PNV1J42",
+      "renavam": "01184111143"
+    },
+    {
+      "modelo": "VW/17.230 CRM 4X2 4P",
+      "placa": "PMX8J32",
+      "renavam": "01182629960"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PMX7J38",
+      "renavam": "01174210440"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PNE6C78",
+      "renavam": "01174212028"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PNE6D58",
+      "renavam": "01174214268"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PNE6D28",
+      "renavam": "01174212940"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "OCQ9C78",
+      "renavam": "01174208462"
+    },
+    {
+      "modelo": "VW/9.170 DRC 4X2",
+      "placa": "PNY4B22",
+      "renavam": "01186840886"
+    },
+    {
+      "modelo": "VW/9.170 DRC 4X2",
+      "placa": "POW4386",
+      "renavam": "01198071297"
+    },
+    {
+      "modelo": "MAN/TGX 29.480 6X4 T",
+      "placa": "POX0J27",
+      "renavam": "01178304628"
+    },
+    {
+      "modelo": "MAN/TGX 29.480 6X4 T",
+      "placa": "POX0E17",
+      "renavam": "01178305756"
+    },
+    {
+      "modelo": "MAN/TGX 29.480 6X4 T",
+      "placa": "POW0C17",
+      "renavam": "01179299474"
+    },
+    {
+      "modelo": "I/TOYOTA HILUX CSLSTM4FD",
+      "placa": "POZ8J37",
+      "renavam": "01179440657"
+    },
+    {
+      "modelo": "SR/TRIEL POWER 3E CA",
+      "placa": "PNE9552",
+      "renavam": "01181935579"
+    },
+    {
+      "modelo": "SR/TRIEL POWER 3E CA",
+      "placa": "PNE9892",
+      "renavam": "01181934963"
+    },
+    {
+      "modelo": "M.BENZ/ATEGO 3030 CE",
+      "placa": "PTL7A25",
+      "renavam": "01191275415"
+    },
+    {
+      "modelo": "VW/EXPRESS DRC 4X2",
+      "placa": "OIC8I99",
+      "renavam": "01239429530"
+    },
+    {
+      "modelo": "VW/EXPRESS DRC 4X2",
+      "placa": "OHZ8I99",
+      "renavam": "01239430334"
+    },
+    {
+      "modelo": "VW/EXPRESS DRC 4X2",
+      "placa": "OIB6G99",
+      "renavam": "01239429956"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "POD8F82",
+      "renavam": "01234863275"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "POD7H92",
+      "renavam": "01234861965"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POD7A92",
+      "renavam": "01234931238"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "PON2G97",
+      "renavam": "01234887670"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "OSI0I47",
+      "renavam": "01234874773"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "PON1G87",
+      "renavam": "01234876687"
+    },
+    {
+      "modelo": "R/RANDON RE DL",
+      "placa": "POD6D42",
+      "renavam": "01234930290"
+    },
+    {
+      "modelo": "R/RANDON RE DL",
+      "placa": "POD4H12",
+      "renavam": "01234928903"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "POG8D32",
+      "renavam": "01237975066"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "POH4D62",
+      "renavam": "01237978170"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "POG0J82",
+      "renavam": "01237688067"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "POF5J72",
+      "renavam": "01237971044"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POL8I72",
+      "renavam": "01238516960"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POJ4D92",
+      "renavam": "01238511152"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POM3F62",
+      "renavam": "01238518114"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "PON1D32",
+      "renavam": "01238520380"
+    },
+    {
+      "modelo": "R/RANDON RE DL",
+      "placa": "POK9I72",
+      "renavam": "01238515514"
+    },
+    {
+      "modelo": "R/RANDON RE DL",
+      "placa": "POM9I42",
+      "renavam": "01238519374"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POG5E32",
+      "renavam": "01238502811"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POG1C72",
+      "renavam": "01238500169"
+    },
+    {
+      "modelo": "R/RANDON RE DL",
+      "placa": "POH4B32",
+      "renavam": "01238505039"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POH9J12",
+      "renavam": "01238507163"
+    },
+    {
+      "modelo": "R/RANDON RE DL",
+      "placa": "POI5B52",
+      "renavam": "01238508348"
+    },
+    {
+      "modelo": "SR/RANDON SR BA",
+      "placa": "POI9B12",
+      "renavam": "01238510083"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PMS0J99",
+      "renavam": "01240212019"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PMO8I99",
+      "renavam": "01240214070"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PMM9D39",
+      "renavam": "01240216260"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "OIF3B91",
+      "renavam": "01240024883"
+    },
+    {
+      "modelo": "R/LIBRELATO DLCBQRI2 2E",
+      "placa": "PME9C71",
+      "renavam": "01240029460"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "OSG0I71",
+      "renavam": "01240026720"
+    },
+    {
+      "modelo": "R/LIBRELATO DLCBQRI2 2E",
+      "placa": "PMD4J91",
+      "renavam": "01240028552"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "OCD0J41",
+      "renavam": "01240023305"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "PMH4C81",
+      "renavam": "01240010670"
+    },
+    {
+      "modelo": "R/LIBRELATO DLCBQRI2 2E",
+      "placa": "PMH8J31",
+      "renavam": "01240011269"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "PMF6B01",
+      "renavam": "01240009760"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "PMD5F01",
+      "renavam": "01240008004"
+    },
+    {
+      "modelo": "R/LIBRELATO DLCBQRI2 2E",
+      "placa": "OSD6J71",
+      "renavam": "01240005188"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "PME8F31",
+      "renavam": "01240008934"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "PMQ9H59",
+      "renavam": "01240217894"
+    },
+    {
+      "modelo": "SR/LIBRELATO CRBAENI2 2E",
+      "placa": "ORQ3G81",
+      "renavam": "01240026193"
+    },
+    {
+      "modelo": "VW/25.360 CTC 6X2",
+      "placa": "RID6B86",
+      "renavam": "01262558538"
+    },
+    {
+      "modelo": "SR/TRIELHT POWER 3E",
+      "placa": "RIC8H02",
+      "renavam": "01265873213"
+    },
+    {
+      "modelo": "VW/11.180 DRC 4X2",
+      "placa": "SBG1B76",
+      "renavam": "01326584135"
+    },
+    {
+      "modelo": "VW/11.180 DRC DPCE",
+      "placa": "SAZ9J56",
+      "renavam": "01326464970"
+    },
+    {
+      "modelo": "VW/11.180 DRC 4X2",
+      "placa": "SBL5A16",
+      "renavam": "01326922812"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SAU6H46",
+      "renavam": "01330024890"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SBE9G98",
+      "renavam": "01348707345"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SBQ8C16",
+      "renavam": "01329231675"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SAT1H96",
+      "renavam": "01326324176"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SAX7J06",
+      "renavam": "01329024874"
+    },
+    {
+      "modelo": "VOLVO/VM 330 8X2R",
+      "placa": "SAQ4I96",
+      "renavam": "01326204391"
+    },
+    {
+      "modelo": "VOLVO/VM 330 8X2R",
+      "placa": "SAR9C86",
+      "renavam": "01326268039"
+    },
+    {
+      "modelo": "VOLVO/VM 330 8X2R",
+      "placa": "SAT0J86",
+      "renavam": "01326322882"
+    },
+    {
+      "modelo": "VOLVO/VM 330 8X2R",
+      "placa": "SAS0B06",
+      "renavam": "01327027868"
+    },
+    {
+      "modelo": "VOLVO/VM 330 8X2R",
+      "placa": "SAR7I56",
+      "renavam": "01326264467"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SAT6I97",
+      "renavam": "01333560971"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SAN6A87",
+      "renavam": "01344701750"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SAN6J57",
+      "renavam": "01344702950"
+    },
+    {
+      "modelo": "VOLVO/VM 270 6X2R",
+      "placa": "SBJ1A07",
+      "renavam": "01341285810"
+    },
+    {
+      "modelo": "VOLVO/VM 360 8X2 R",
+      "placa": "SBT9H04",
+      "renavam": "01373502620"
+    },
+    {
+      "modelo": "VOLVO/VM 360 8X2 R",
+      "placa": "SBV1E64",
+      "renavam": "01373500872"
+    },
+    {
+      "modelo": "VOLVO/VM 290 6X2 R",
+      "placa": "SBS0F64",
+      "renavam": "01373592432"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "SBU0J01",
+      "renavam": "01378243320"
+    },
+    {
+      "modelo": "VOLVO/FH 540 6X4T",
+      "placa": "RII4F12",
+      "renavam": "01382956417"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "SAP4I52",
+      "renavam": "01381754853"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "RII8E32",
+      "renavam": "01390150639"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "RII4I72",
+      "renavam": "01381753130"
+    },
+    {
+      "modelo": "SR/RANDON TRIEL SLRG 4E",
+      "placa": "SBK6H32",
+      "renavam": "01391932118"
+    },
+    {
+      "modelo": "M.BENZ/ACCELO 1017 CE",
+      "placa": "RII4H22",
+      "renavam": "01392898401"
+    },
+    {
+      "modelo": "SR/RANDON TRIEL VTAV 3E",
+      "placa": "SBC8A32",
+      "renavam": "01398072831"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "TIJ2G79",
+      "renavam": "01418849330"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "TIN3D69",
+      "renavam": "01421813855"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "THR5A31",
+      "renavam": "01427682930"
+    },
+    {
+      "modelo": "VOLVO/VM 360 8X2 R",
+      "placa": "THS1F71",
+      "renavam": "01428066613"
+    },
+    {
+      "modelo": "VOLVO/VM 360 4X2 T",
+      "placa": "SAU1A89",
+      "renavam": "01425754969"
+    },
+    {
+      "modelo": "VOLVO/VM 360 8X2 R",
+      "placa": "THY7J29",
+      "renavam": "01434818770"
+    },
+    {
+      "modelo": "VOLVO/VM 360 8X2 R",
+      "placa": "TIE0B59",
+      "renavam": "01434708907"
+    },
+    {
+      "modelo": "VOLVO/VM 290 6X2 R",
+      "placa": "THY7D11",
+      "renavam": "01428065498"
+    },
+    {
+      "modelo": "SR/RANDON TRIEL VTAV 3E",
+      "placa": "TIF3I79",
+      "renavam": "01425787166"
+    },
+    {
+      "modelo": "VOLVO/VM 290 6X2 R",
+      "placa": "THY5A31",
+      "renavam": "01428066036"
+    },
+    {
+      "modelo": "SCANIA/P320 B8X2",
+      "placa": "TIF0F72",
+      "renavam": "01436637110"
+    },
+    {
+      "modelo": "VOLVO/VM 360 8X2 R",
+      "placa": "TIC2C67",
+      "renavam": "01452394030"
+    },
+    {
+      "modelo": "VOLVO/VM 290 6X2 R",
+      "placa": "THP5G47",
+      "renavam": "01453653950"
+    },
+    {
+      "modelo": "SR/RANDON TRIEL VTAV 3E",
+      "placa": "TIG9C47",
+      "renavam": "01452235713"
+    },
+    {
+      "modelo": "VOLVO/VM 360 4X2 T",
+      "placa": "TIK1J27",
+      "renavam": "01451538038"
+    },
+    {
+      "modelo": "VOLVO/VM 360 8X2 R",
+      "placa": "TIE4B27",
+      "renavam": "01452234873"
+    },
+    {
+      "modelo": "VOLVO/VM 290 6X2 R",
+      "placa": "THX4D27",
+      "renavam": "01451759085"
+    },
+    {
+      "modelo": "VOLVO/VM 290 6X2 R",
+      "placa": "TIH4F17",
+      "renavam": "01451758488"
+    },
+    {
+      "modelo": "VOLVO/VM 290 6X2 R",
+      "placa": "TIN1G07",
+      "renavam": "01451756000"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "THO5A20",
+      "renavam": "01462053987"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "THO6C10",
+      "renavam": "01462058350"
+    },
+    {
+      "modelo": "VOLVO/VM 290 4X2 R",
+      "placa": "THO5G10",
+      "renavam": "01461846266"
+    },
+    {
+      "modelo": "DAF/XF FTT 530",
+      "placa": "TIM1C06",
+      "renavam": "01466157850"
+    },
+    {
+      "modelo": "DAF/CF FAC 310",
+      "placa": "SAR4E13",
+      "renavam": "01477511242"
+    },
+    {
+      "modelo": "DAF/CF FAC 310",
+      "placa": "THS5I13",
+      "renavam": "01478893971"
+    }
+  ]
+}

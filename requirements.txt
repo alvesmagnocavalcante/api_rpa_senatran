@@ -1,0 +1,7 @@
+DrissionPage
+pywinauto
+python-dotenv
+fastapi [standard]
+uvicorn[standard]
+minio
+pydantic
